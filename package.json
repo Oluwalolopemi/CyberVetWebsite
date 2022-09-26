@@ -1,0 +1,14 @@
+{
+  "name": "cybervet",
+  "version": "1.0.0",
+  "description": "tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lope",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
